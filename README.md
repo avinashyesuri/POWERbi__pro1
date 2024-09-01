@@ -1,4 +1,4 @@
-# powerbilat1
+# Adidas dataset inclusion in visulaisation reports
 
 Drive link: https://drive.google.com/file/d/1nw968p3aBY-IbsqSBgmmRayuuUllDs4b/view?usp=drive_link
 
