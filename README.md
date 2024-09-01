@@ -30,7 +30,8 @@ How does the sales data vary by region, state and city?
 What are the top 5 performing cities by profit?
 
 
-Dataset Explanation
+### Dataset Explanation:
+
 Retailer- A retailer is a business or individual that sells products or services directly to consumers.
 
 Retailer ID- The Retailer ID is a unique identifier assigned to each retailer in your dataset. It helps to distinguish and track different retailers.
