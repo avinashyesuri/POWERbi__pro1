@@ -11,7 +11,7 @@ Drive link: https://drive.google.com/file/d/1nw968p3aBY-IbsqSBgmmRayuuUllDs4b/vi
 Problem Statement
 The objective of this assignment is to analyze the Adidas sales database and identify key insights to help improve sales performance and optimize business strategies. By examining the sales data, we aim to understand factors influencing sales, identify trends, and uncover opportunities for growth. By addressing these questions and exploring the Adidas sales database, we aim to provide actionable insights and recommendations.
 
-My Dashboard includes:
+### My Dashboard includes:
 
 What are total sales, total profit, the average price per unit and total units sold?
 
