@@ -60,5 +60,6 @@ Operating Profit- Operating Profit represents the profit earned by the retailer 
 
 Operating Margin- Operating Margin is a financial metric that indicates the profitability and efficiency of a retailer's operations. It is calculated by dividing the Operating Profit by the Total Sales and multiplying the result by 100 to express it as a percentage.
 
+
 Sales Method- Sales Method refers to the approach or channel used by the retailer to sell its products or services. It can include methods like in-store sales, online sales, direct sales, or third-party distribution.
 
