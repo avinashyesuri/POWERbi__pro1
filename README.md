@@ -29,7 +29,6 @@ How does the sales data vary by region, state and city?
 
 What are the top 5 performing cities by profit?
 
-
 ### Dataset Explanation:
 
 Retailer- A retailer is a business or individual that sells products or services directly to consumers.
