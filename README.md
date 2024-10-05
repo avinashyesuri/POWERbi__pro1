@@ -1,10 +1,10 @@
 # Adidas dataset inclusion in visulaisation reports
 
-
-Drive link: https://drive.google.com/file/d/1nw968p3aBY-IbsqSBgmmRayuuUllDs4b/view?usp=drive_link
-
 ![image](https://github.com/user-attachments/assets/4a974979-9e29-4a94-8586-73a426d86186)
 
+Link for proper study on visualization
+
+Capture-po1: https://drive.google.com/file/d/1nw968p3aBY-IbsqSBgmmRayuuUllDs4b/view?usp=drive_link
 ### Adidas sales Dataset Link
 
 Problem Statement
