@@ -1,11 +1,11 @@
-# Adidas dataset inclusion in visulaisation reports
+# Adidas dataset inclusion in visulaisation reports:
 
 ![image](https://github.com/user-attachments/assets/4a974979-9e29-4a94-8586-73a426d86186)
 
 Link for proper study on visualization
 
 Capture-po1: https://drive.google.com/file/d/1nw968p3aBY-IbsqSBgmmRayuuUllDs4b/view?usp=drive_link
-### Adidas sales Dataset Link
+### Adidas sales Dataset Link:
 
 Problem Statement
 The objective of this assignment is to analyze the Adidas sales database and identify key insights to help improve sales performance and optimize business strategies. By examining the sales data, we aim to understand factors influencing sales, identify trends, and uncover opportunities for growth. By addressing these questions and exploring the Adidas sales database, we aim to provide actionable insights and recommendations.
