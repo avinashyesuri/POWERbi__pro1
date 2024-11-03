@@ -58,3 +58,4 @@ Operating Margin- Operating Margin is a financial metric that indicates the prof
 
 Sales Method- Sales Method refers to the approach or channel used by the retailer to sell its products or services. It can include methods like in-store sales, online sales, direct sales, or third-party distribution.
 
+THIS IS MY POWER BI PROJECT 1 
