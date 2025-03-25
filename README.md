@@ -27,6 +27,7 @@ Which sales method is the most effective in generating sales?
 
 How does the sales data vary by region, state and city?
 
+
 What are the top 5 performing cities by profit?
 
 ### Dataset Explanation:
